@@ -1,10 +1,7 @@
-# sales-demand-forecasting-ml
-Machine Learning project for sales and demand forecasting using Python.
+# Sales & Demand Forecasting Project
 
-# Sales Forecasting Project
-
-## Objective
-Predict future sales using Machine Learning.
+## Overview
+This Machine Learning project predicts future sales using historical business data.
 
 ## Technologies Used
 - Python
@@ -14,15 +11,21 @@ Predict future sales using Machine Learning.
 - Matplotlib
 - Google Colab
 
-## Machine Learning Model
-Linear Regression
-
 ## Features
 - Data Cleaning
 - Feature Engineering
-- Forecasting
+- Sales Forecasting
 - Error Evaluation
 - Visualization
 
-## Outcome
-Successfully predicted future sales trends.
+## Machine Learning Model
+Linear Regression
+
+## Results
+The model predicts future sales trends to help businesses:
+- manage inventory
+- improve planning
+- reduce losses
+
+## Author
+Padala HarshaVardhan
